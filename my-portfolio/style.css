@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Poppins;
+}
+main{
+    padding: 20%;
+    color: white;
+}
+div ul{
+    list-style-type: none;
+    color: white;
+}
+div a{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+.container-introduction{
+    background-color: #5A827E;
+}
+.container-skills{
+    background-color: #84AE92;
+}
+.container-projects{
+    background-color: #B9D4AA;
+}
+.container-rates{
+    background-color: #FAFFCA;
+}
+.container-reviews{
+    background-color: #5A827E;
+}
+.container-contacts{
+    background-color: #84AE92;
+}
+footer a{
+    text-decoration: none;
+    color: darkcyan;
+}
